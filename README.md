@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frontend frameworks**
 
-- 📫 How to reach me **ananyablshetty@gmail.com**
+- 📫 How to reach me <br>**ananyablshetty@gmail.com**<br>**www.linkedin.com/in/ananya-bl-183803270**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +15,3 @@
 <a href="https://instagram.com/ananyeahhh.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananyeahhh.__" height="30" width="40" /></a>
 </p>
 
-<p>🔗 Working links of my projects
-
-🔗 HTML/CSS/JS PAGES:</p>
